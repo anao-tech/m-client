@@ -10,11 +10,11 @@
 
 1. 下载对应渠道
 
-[标准版](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.apk)
-[中车眉山车辆](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.crrc.apk)
-[四川省高速公路绿化](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.egec.apk)
-[恒安](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.ha.apk)
-[攀枝花](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.pzh.apk)
+[标准版](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.apk)\<br>
+[中车眉山车辆](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.crrc.apk)\<br>
+[四川省高速公路绿化](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.egec.apk)\<br>
+[恒安](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.ha.apk)\<br>
+[攀枝花](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.pzh.apk)\<br>
 
 2. 安装到安卓设备，即可运行
 
