@@ -1,22 +1,30 @@
-# AnaoESafe
+# 企业安全生产一体化平台
 
 #### 项目介绍
-安奥企业安全生产一体化平台
+企业安全生产一体化平台
 
 #### 软件架构
 软件架构说明
 
-
 #### 安装教程
 
-1. 下载对应渠道APP
+1. 下载对应渠道
+
+[标准版](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.apk)
+[中车眉山车辆](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.crrc.apk)
+[四川省高速公路绿化](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.egec.apk)
+[恒安](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.ha.apk)
+[攀枝花](https://raw.githubusercontent.com/anao-tech/m-client/master/beta/com.anao.esafe.pzh.apk)
+
 2. 安装到安卓设备，即可运行
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 软件截图
+![](https://raw.githubusercontent.com/anao-tech/m-client/master/gif/Screenshot_20190225_102035_com.anao.esafe.jpg)
+![](https://raw.githubusercontent.com/anao-tech/m-client/master/gif/Screenshot_20190225_102226_com.anao.esafe.jpg)
+![](https://raw.githubusercontent.com/anao-tech/m-client/master/gif/Screenshot_20190225_102231_com.anao.esafe.jpg)
+![](https://raw.githubusercontent.com/anao-tech/m-client/master/gif/Screenshot_20190225_102215_com.anao.esafe.jpg)
 
 #### 参与贡献
 
